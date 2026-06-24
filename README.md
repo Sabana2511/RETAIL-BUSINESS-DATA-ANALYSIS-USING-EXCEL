@@ -101,27 +101,6 @@ The dashboard transforms raw retail data into actionable insights that support b
 
 ---
 
-## 📂 Project Structure
-
-```text
-Retail-Business-Analytics-Dashboard/
-│
-├── Dataset/
-│   ├── Customer_Data.xlsx
-│   ├── Product_Data.xlsx
-│   ├── Sales_Data.xlsx
-│   └── Store_Data.xlsx
-│
-├── Dashboard/
-│   └── Retail_Business_Analytics_Dashboard.xlsx
-│
-├── Images/
-│   └── Dashboard_Screenshot.png
-│
-└── README.md
-```
-
----
 
 ## 📷 Dashboard Preview
 
