@@ -104,7 +104,8 @@ The dashboard transforms raw retail data into actionable insights that support b
 
 ## 📷 Dashboard Preview
 
-https://github.com/Sabana2511/RETAIL-BUSINESS-DATA-ANALYSIS-USING-EXCEL/blob/main/Dashboard%20Image.png
+<img width="1155" height="906" alt="image" src="https://github.com/user-attachments/assets/0b809372-e328-4ed2-a2b4-495b18590a12" />
+
 
 ---
 
